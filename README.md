@@ -138,26 +138,27 @@ O seu repositório já está configurado e pronto para uso.
 
 ## CONTEÚDO DE ESTUDO 
 
-	Link com comandos de apoio para GIT
-	- http://rogerdudler.github.io/git-guide/index.pt_BR.html
-	- https://try.github.io/levels/1/challenges/1	
-
-	- http://rogerdudler.github.io/git-guide/index.pt_BR.html
-	- https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es
-	- https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
-	- https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
-	- https://www.youtube.com/watch?v=UMhskLXJuq4	
-
-	PUBLICAR WEB PAGE GIT
-	- https://pages.github.com/
-	- http://blog.virtuacreative.com.br/hospedar-website-gratis-com-github.html
+#### Link com comandos de apoio para GIT
 	
+- [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Resources to learn Git](https://try.github.io/levels/1/challenges/1)
+
+- [Sistema de controle de versões](https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es)
+- [Git #1 - Introdução - Rodrigo Branas](https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
+- [Curso de Git para iniciantes - Aula 1
+](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+- [Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
+
+#### PUBLICAR WEB PAGE GIT
+- [GitHub Pages](https://pages.github.com/)
+- [Como hospedar um website gratuitamente no GitHub](http://blog.virtuacreative.com.br/hospedar-website-gratis-com-github.html)
+
     
 	
-	Comandos GIT Extras:
-	- Criar arquivo .gitignore (listar arquivos a serem ignorados no versionamento)
-		Entrar no site: https://www.gitignore.io/
-		Escolher o tipo de arquivo, clicar em "Create" e salvar o arquivo exibido.
-		Este arquivo ".gitignore" deve ester na raiz do projeto versionado
+### Comandos GIT Extras:
+- Criar arquivo .gitignore (listar arquivos a serem ignorados no versionamento)
+	Entrar no site: https://www.gitignore.io/
+	Escolher o tipo de arquivo, clicar em "Create" e salvar o arquivo exibido.
+	Este arquivo ".gitignore" deve ester na raiz do projeto versionado
 
 
